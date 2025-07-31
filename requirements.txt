@@ -1,0 +1,6 @@
+streamlit
+mne
+pandas
+numpy
+scikit-learn
+lightgbm
