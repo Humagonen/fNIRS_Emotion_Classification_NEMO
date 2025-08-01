@@ -1,6 +1,6 @@
 # fNIRS_Emotion_Classification_NEMO
 
-more files will be added - I will organise the notebooks and upload in a seperate folder
+more files will be added - I will organise the notebooks and upload
 
 deployed app: https://fnirsemotionclassification.streamlit.app/
 
